@@ -1,3 +1,2 @@
-# References
+Este es mi primer conflict!
 
-* octocat 1 😈
